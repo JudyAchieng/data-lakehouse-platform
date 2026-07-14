@@ -1,0 +1,27 @@
+# Configuration file for the Data Lakehouse Platform
+# Defines environment settings, storage paths, and data ingestion parameters
+# Used by Python pipelines to control data sources and processing behavior
+
+environment: development
+
+storage:
+  bronze_path: bronze
+
+
+weather:
+  city:
+    name: Nairobi
+    latitude: -1.286389
+    longitude: 36.817223
+
+
+crypto:
+  coins:
+    - bitcoin
+    - ethereum
+    - solana
+
+
+jobs:
+  keyword:
+    - data engineer

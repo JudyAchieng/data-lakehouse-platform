@@ -23,5 +23,7 @@ crypto:
 
 
 jobs:
-  keyword:
+  keywords:
     - data engineer
+    #- data analyst
+    #- data scientist

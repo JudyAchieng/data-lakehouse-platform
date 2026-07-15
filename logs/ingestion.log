@@ -1,0 +1,13 @@
+2026-07-15 13:32:29,447 - INFO - Weather ingestion started
+2026-07-15 13:32:29,899 - INFO - Saved bronze/weather/20260715_133229.json
+2026-07-15 14:03:39,332 - INFO - Crypto ingestion started
+2026-07-15 14:04:11,987 - INFO - Crypto ingestion started
+2026-07-15 14:04:12,208 - INFO - Saved bronze/crypto/20260715_140412.json
+2026-07-15 14:06:58,283 - INFO - Crypto ingestion started
+2026-07-15 14:06:59,442 - INFO - Saved bronze/crypto/20260715_140659.json
+2026-07-15 14:44:40,976 - INFO - Jobs ingestion started
+2026-07-15 14:44:41,384 - INFO - Saved bronze/jobs/20260715_144441.json
+2026-07-15 15:39:56,321 - INFO - Jobs ingestion started
+2026-07-15 15:39:56,703 - INFO - Saved bronze/jobs/20260715_153956.json
+2026-07-15 15:49:06,505 - INFO - Jobs ingestion started
+2026-07-15 15:49:06,824 - INFO - Saved bronze/jobs/20260715_154906.json

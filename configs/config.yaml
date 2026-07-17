@@ -25,5 +25,7 @@ crypto:
 jobs:
   keywords:
     - data engineer
-    #- data analyst
-    #- data scientist
+    - analytics engineer
+    - data platform engineer
+    - dataops engineer
+    - devops engineer

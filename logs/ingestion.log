@@ -11,3 +11,11 @@
 2026-07-15 15:39:56,703 - INFO - Saved bronze/jobs/20260715_153956.json
 2026-07-15 15:49:06,505 - INFO - Jobs ingestion started
 2026-07-15 15:49:06,824 - INFO - Saved bronze/jobs/20260715_154906.json
+2026-07-16 15:54:45,081 - INFO - Weather ingestion started
+2026-07-16 15:54:45,399 - INFO - Saved bronze/weather/20260716_155445.json
+2026-07-17 08:30:38,325 - INFO - Weather ingestion started
+2026-07-17 08:30:38,679 - INFO - Saved bronze/weather/20260717_083038.json
+2026-07-17 08:50:38,625 - INFO - Jobs ingestion started
+2026-07-17 08:50:38,958 - INFO - Saved bronze/jobs/20260717_085038.json
+2026-07-17 08:53:54,108 - INFO - Jobs ingestion started
+2026-07-17 08:53:54,514 - INFO - Saved bronze/jobs/20260717_085354.json
